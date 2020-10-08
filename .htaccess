@@ -1,0 +1,7 @@
+# WebSite X5 - Start Code [do not edit]
+
+<IfModule mod_deflate.c>
+SetOutputFilter DEFLATE
+</IfModule>
+
+# WebSite X5 - End Code
